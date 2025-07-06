@@ -278,3 +278,7 @@ mysql-connector-python
 * README.md with clear instructions
 
 ---
+## Pictures
+![image](https://github.com/user-attachments/assets/afb7d205-dda5-4e04-bbda-c84f230875f5)
+![image](https://github.com/user-attachments/assets/fc2b880f-7baa-445a-b3fb-a16ff2d019fa)
+
